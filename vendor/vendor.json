@@ -1,0 +1,58 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "xTBZgCJG3VqQjSRla77I3I23BGY=",
+			"path": "github.com/Comdex/imgo",
+			"revision": "ea5c67d8bd47da3ea1ae16a9c07ca31618965c3d",
+			"revisionTime": "2016-09-16T12:16:10Z"
+		},
+		{
+			"checksumSHA1": "q21x1YYlGYnU+j9YSWxcPWFv1xI=",
+			"path": "github.com/disintegration/imaging",
+			"revision": "5e63c9a565d0a3260d23d060a795783dab90fefe",
+			"revisionTime": "2018-06-03T08:52:56Z"
+		},
+		{
+			"checksumSHA1": "GMBwLN22so1P96uVkYh0Ltd0fmw=",
+			"path": "github.com/kbinani/screenshot",
+			"revision": "038e1adccf8662638cbd78d0b29f97a5283c7a61",
+			"revisionTime": "2018-02-19T13:33:51Z"
+		},
+		{
+			"checksumSHA1": "xMNgi5omLLaraTDb6gE0SekWaEE=",
+			"path": "github.com/kbinani/screenshot/internal/util",
+			"revision": "038e1adccf8662638cbd78d0b29f97a5283c7a61",
+			"revisionTime": "2018-02-19T13:33:51Z"
+		},
+		{
+			"checksumSHA1": "bS+SilnSSSo9YHC+NnHL/96KEcw=",
+			"path": "github.com/kbinani/screenshot/internal/xwindow",
+			"revision": "038e1adccf8662638cbd78d0b29f97a5283c7a61",
+			"revisionTime": "2018-02-19T13:33:51Z"
+		},
+		{
+			"checksumSHA1": "Xin3jPMYcIT5mMBfj23cPmHdfg8=",
+			"path": "github.com/lxn/win",
+			"revision": "7e1250ba2e7749fb9eb865da9ee93fb5a2fe73f1",
+			"revisionTime": "2018-04-30T06:20:51Z"
+		},
+		{
+			"checksumSHA1": "UD/pejajPyS7WaWVXq2NU1eK4Ic=",
+			"path": "golang.org/x/image/bmp",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "xHj7hC7bSAOdCF/aEfmFAK5i3ns=",
+			"path": "golang.org/x/image/tiff",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "PF6VjvpNpOdR8epWH1Liyy7x1Qg=",
+			"path": "golang.org/x/image/tiff/lzw",
+			"revision": ""
+		}
+	],
+	"rootPath": "go-llk"
+}
